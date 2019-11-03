@@ -66,7 +66,7 @@ def char_vectorize(word: str, vector_matrix: Dict) -> List:
     return [vector_matrix[letter] for letter in word]
 
 
-def for_model_char_side(data, limit=1000000, pad_len=60) -> List:
+def for_model_char_side(data, limit=1000, pad_len=60) -> List:
     char_matrix = load_char_embeddings(os.path.relpath('./data/char_vectors.txt'), limit=limit)
     encoded = []
     for sentence in data[0]:
@@ -77,7 +77,7 @@ def for_model_char_side(data, limit=1000000, pad_len=60) -> List:
     return encoded
 
 
-def for_model_word_side(data, limit=10, pad_len=60) -> List:
+def for_model_word_side(data, limit=1000000, pad_len=60) -> List:
     vector_matrix = load_word_embeddings(os.path.relpath('./data/word_vectors.txt'), limit=limit)
     encoded = []
     for element in data[0]:
