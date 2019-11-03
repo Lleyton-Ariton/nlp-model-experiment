@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db5fc397-69ed-4182-95e1-e7c68a297a58" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="db5fc397-69ed-4182-95e1-e7c68a297a58" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +20,7 @@
       <file leaf-file-name="primary-model.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/models/primary-model.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
+            <state relative-caret-position="2295">
               <caret line="153" selection-start-line="153" selection-end-line="153" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
@@ -34,7 +32,7 @@
       <file leaf-file-name="baseline-model.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/models/baseline-model.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-448">
+            <state relative-caret-position="120">
               <caret line="8" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
@@ -46,7 +44,7 @@
       <file leaf-file-name="train.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/models/data/CONLL2003/train.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
+            <state relative-caret-position="3293280">
               <caret line="219552" column="11" selection-start-line="219552" selection-start-column="11" selection-end-line="219552" selection-end-column="11" />
             </state>
           </provider>
@@ -55,7 +53,7 @@
       <file leaf-file-name="test.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/models/data/CONLL2003/test.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="611">
+            <state relative-caret-position="755220">
               <caret line="50348" column="7" selection-start-line="50348" selection-start-column="7" selection-end-line="50348" selection-end-column="7" />
             </state>
           </provider>
@@ -64,7 +62,7 @@
       <file leaf-file-name="parsing.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/parsing.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="369">
+            <state relative-caret-position="1185">
               <caret line="79" column="38" selection-start-line="79" selection-start-column="38" selection-end-line="79" selection-end-column="38" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
@@ -77,8 +75,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="306">
-                <caret line="41" selection-start-line="41" selection-end-line="41" />
+              <first_editor relative-caret-position="555">
+                <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
               </first_editor>
               <second_editor />
             </state>
@@ -162,52 +160,48 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="NLP-Model-Experiment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nlp-model-experiment" type="b2602c69:ProjectViewProjectNode" />
               <item name="nlp-model-experiment" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="NLP-Model-Experiment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nlp-model-experiment" type="b2602c69:ProjectViewProjectNode" />
               <item name="nlp-model-experiment" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="NLP-Model-Experiment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nlp-model-experiment" type="b2602c69:ProjectViewProjectNode" />
               <item name="nlp-model-experiment" type="462c0819:PsiDirectoryNode" />
               <item name="models" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="NLP-Model-Experiment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nlp-model-experiment" type="b2602c69:ProjectViewProjectNode" />
               <item name="nlp-model-experiment" type="462c0819:PsiDirectoryNode" />
               <item name="models" type="462c0819:PsiDirectoryNode" />
               <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="NLP-Model-Experiment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nlp-model-experiment" type="b2602c69:ProjectViewProjectNode" />
               <item name="nlp-model-experiment" type="462c0819:PsiDirectoryNode" />
               <item name="models" type="462c0819:PsiDirectoryNode" />
               <item name="data" type="462c0819:PsiDirectoryNode" />
               <item name="CONLL2000" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="NLP-Model-Experiment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nlp-model-experiment" type="b2602c69:ProjectViewProjectNode" />
               <item name="nlp-model-experiment" type="462c0819:PsiDirectoryNode" />
               <item name="models" type="462c0819:PsiDirectoryNode" />
               <item name="data" type="462c0819:PsiDirectoryNode" />
               <item name="CONLL2003" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="NLP-Model-Experiment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -356,10 +350,9 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32882884" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2542373" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2584746" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32882884" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -370,6 +363,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32882884" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -381,6 +375,70 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/models/primary-model.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2295">
+          <caret line="153" selection-start-line="153" selection-end-line="153" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/baseline-model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/data/CONLL2003/train.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3293280">
+          <caret line="219552" column="11" selection-start-line="219552" selection-start-column="11" selection-end-line="219552" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/data/CONLL2003/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="755220">
+          <caret line="50348" column="7" selection-start-line="50348" selection-start-column="7" selection-end-line="50348" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parsing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1185">
+          <caret line="79" column="38" selection-start-line="79" selection-start-column="38" selection-end-line="79" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/evaluation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="615">
+            <caret line="41" selection-start-line="41" selection-end-line="41" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/primary-model.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1890">
           <caret line="134" selection-start-line="134" selection-end-line="134" />
           <folding>
@@ -389,26 +447,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/model/gru-baseline-build.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/torch-model.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/model/gru-baseline-build.py" />
+    <entry file="file://$PROJECT_DIR$/model/torch-model.py" />
     <entry file="file://$PROJECT_DIR$/parsing.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -436,26 +476,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/model/torch-model.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="100" column="20" lean-forward="true" selection-start-line="100" selection-start-column="20" selection-end-line="100" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/gru-baseline-build.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/model/torch-model.py" />
+    <entry file="file://$PROJECT_DIR$/model/gru-baseline-build.py" />
     <entry file="file://$PROJECT_DIR$/models/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -463,37 +485,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/models/data/word_vectors.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="120" selection-start-column="120" selection-end-column="120" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/models/data/word_vectors.txt" />
     <entry file="file://$USER_HOME$/PycharmProjects/Cortecx/venv/lib/python3.6/site-packages/cortecx/construction/tools.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/PycharmProjects/Cortecx/venv/lib/python3.6/site-packages/cortecx/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$USER_HOME$/PycharmProjects/Cortecx/venv/lib/python3.6/site-packages/cortecx/construction/foundation.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-672">
           <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/models/data/CONLL2000/train.txt">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/models/data/CONLL2000/test.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -502,23 +503,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/models/cnn-model.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/models/cnn-model.py" />
     <entry file="file://$PROJECT_DIR$/models/data/CONLL2003/test.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="611">
+        <state relative-caret-position="755220">
           <caret line="50348" column="7" selection-start-line="50348" selection-start-column="7" selection-end-line="50348" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/models/data/CONLL2003/train.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
+        <state relative-caret-position="3293280">
           <caret line="219552" column="11" selection-start-line="219552" selection-start-column="11" selection-end-line="219552" selection-end-column="11" />
         </state>
       </provider>
@@ -535,7 +530,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/parsing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
+        <state relative-caret-position="1185">
           <caret line="79" column="38" selection-start-line="79" selection-start-column="38" selection-end-line="79" selection-end-column="38" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
@@ -545,7 +540,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/models/baseline-model.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-448">
+        <state relative-caret-position="120">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
@@ -555,7 +550,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/models/primary-model.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
+        <state relative-caret-position="2295">
           <caret line="153" selection-start-line="153" selection-end-line="153" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
@@ -566,8 +561,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="306">
-            <caret line="41" selection-start-line="41" selection-end-line="41" />
+          <first_editor relative-caret-position="555">
+            <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
           </first_editor>
           <second_editor />
         </state>
