@@ -23,19 +23,19 @@ The paper also includes the model's f1 score for both datasets and their respect
 ## Model
 The BI-LSTM-CRF model architecture used is written in Keras because of the simplicity and speed of prototype implementation. 
 
-###BI-LSTM Baseline
+### BI-LSTM Baseline
 Along with the baseline present in the research paper, this project also uses a basic BI-LSTM model as additional baseline.
 The baseline is also written in Keras.
 
-###Baseline Architecture:
+### Baseline Architecture:
 ![](./images/BaselineArchitecture.png)
 
 A simple BI-LSTM with time distributed fully connected layer.
 
-###Model Architecture:
+### Model Architecture:
 ![](./images/ModelArchitecture.png)
 
-####Primary Model:
+#### Primary Model:
 The BI-LSTM-CRF takes a sentence as it's GloVe word embeddings (w1, w2, w3) in addition to the corresponding character embeddings 
 respectively for each word in that sentence (c1, c2, c3 for w1). Each word is represented by concatenating its word embedding and 
 its character-level BI-LSTM output. It is then given to the main BI-LSTM-CRF network.
