@@ -39,3 +39,8 @@ A simple BI-LSTM with time distributed fully connected layer.
 The BI-LSTM-CRF takes a sentence as it's GloVe word embeddings (w1, w2, w3) in addition to the corresponding character embeddings 
 respectively for each word in that sentence (c1, c2, c3 for w1). Each word is represented by concatenating its word embedding and 
 its character-level BI-LSTM output. It is then given to the main BI-LSTM-CRF network.
+
+
+## TODO:
+- Train Models
+- Compare and evaluate performances
